@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F6F6F6&random=false&width=435&lines=Sup%2C+I'm+Mar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F6F6F6&random=false&width=435&lines=Sup%2C+I'm+Mar!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <p>I'm a student delving deep into Information technology, focusing on web and mobile app development. Passionate about coding and software inovation, I'm dedicated to mastering the intricacies of technology for a dynamic career ahead.</p>
 ------------------------------------------------------
 
