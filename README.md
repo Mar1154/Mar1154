@@ -1,5 +1,5 @@
 <h1>Hi, I'm Mar!</h1>
-<p></p>
+<p>🌱 A 19 year old 2nd year college student</p>
  ---
 
  <br>
