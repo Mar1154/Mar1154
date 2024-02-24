@@ -1,6 +1,7 @@
 <h1>Hi, I'm Mar!</h1>
 <p>🌱 A 19 year old 2nd year college student<br> 🔭 I’m currently working on our Final Project</p>
  ---
+<img src="https://i.redd.it/0w8k67nd28971.gif" align="center">
 
  <br>
  
