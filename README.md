@@ -1,21 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=FFFFFF&random=false&width=435&lines=Sup%2C+I'm+Mar!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=32&pause=1000&color=F6F6F6&random=false&width=435&lines=Sup%2C+I'm+Mar!)](https://git.io/typing-svg)
+<p>I'm a student delving deep into Information technology, focusing on web and mobile app development. Passionate about coding and software inovation, I'm dedicated to mastering the intricacies of technology for a dynamic career ahead.</p>
+------------------------------------------------------
 
-<p>🌱 A 19 year old 2nd year college student<br> 🔭 I’m currently working on our Final Project</p>
- ---
-<img src="https://i.redd.it/0w8k67nd28971.gif" align="center">
+<br>
+
+<p>🌱 A 19 year old 2nd year college student<br> 🔭 I’m currently working on our Final Project<br> 📫 How to reach me:<br> &nbsp &nbsp &nbsp noiramyeliab@gmail.com</p>
+ ------------------------------------------------------
+<img src="https://i.redd.it/0w8k67nd28971.gif" width="100%">
 
  <br>
  
-**Languages and Tools:**
-
-<p align="left">
-
-  <div align="left">
-  
- <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-
-  </div>
-  </p>
 
 <br>
 
