@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=FFFFFF&random=false&width=435&lines=Sup%2C+I'm+Mar" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=FFFFFF&random=false&width=435&lines=Sup%2C+I'm+Mar!)](https://git.io/typing-svg)
 
 <p>🌱 A 19 year old 2nd year college student<br> 🔭 I’m currently working on our Final Project</p>
  ---
