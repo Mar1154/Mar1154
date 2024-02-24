@@ -1,4 +1,5 @@
-<h1>Hi, I'm Mar!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=FFFFFF&random=false&width=435&lines=Sup%2C+I'm+Mar" alt="Typing SVG" /></a>
+
 <p>🌱 A 19 year old 2nd year college student<br> 🔭 I’m currently working on our Final Project</p>
  ---
 <img src="https://i.redd.it/0w8k67nd28971.gif" align="center">
