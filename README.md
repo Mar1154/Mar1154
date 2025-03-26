@@ -40,6 +40,7 @@
     <li>React Three Fiber</li>
     <li>CodeIgniter 4</li>
     <li>Laravel</li>
+    <li>Framer JS</li>
   </ul>
 </div>
 
