@@ -36,6 +36,7 @@
     <li>Tailwind</li>
     <li>React</li>
     <li>React Native</li>
+    <li>Next.js</li>
     <li>Three.js</li>
     <li>React Three Fiber</li>
     <li>CodeIgniter 4</li>
