@@ -29,6 +29,7 @@
     <li>PHP</li>
     <li>Python</li>
     <li>C++</li>
+    <li>C#</li>
   </ul>
   <p><strong>Libraries & Frameworks I am proficient in:</strong></p>
   <ul>
@@ -37,6 +38,7 @@
     <li>React</li>
     <li>React Native</li>
     <li>Next.js</li>
+    <li>Angular</li>
     <li>Three.js</li>
     <li>React Three Fiber</li>
     <li>CodeIgniter 4</li>
