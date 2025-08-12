@@ -38,7 +38,7 @@
     <li>React</li>
     <li>React Native</li>
     <li>Next.js</li>
-    <li>Angular</li>
+    <li>Angular.js</li>
     <li>Three.js</li>
     <li>React Three Fiber</li>
     <li>CodeIgniter 4</li>
