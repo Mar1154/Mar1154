@@ -27,14 +27,16 @@ I create clean, responsive, and scalable applications, and I’m confident in pi
 
 ## 📫 Let’s Connect  
 
-<a href="mailto:marionelyb@gmail.com" aria-label="Email Marion Bailey">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://www.linkedin.com/in/marion-bailey" target="_blank" aria-label="Connect with Marion Bailey on LinkedIn">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.upwork.com/freelancers/~01393b34980572dd70" target="_blank" aria-label="Hire Marion Bailey on Upwork">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
-</a>
+<p align="left">
+  <a href="mailto:marionelyb@gmail.com" aria-label="Email Marion Bailey">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/marion-bailey" target="_blank" rel="noopener noreferrer" aria-label="Connect with Marion Bailey on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~01393b34980572dd70" target="_blank" rel="noopener noreferrer" aria-label="Hire Marion Bailey on Upwork">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
+  </a>
+</p>
 
 ---
